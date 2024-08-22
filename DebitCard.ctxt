@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DebitCard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Debit_Card\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Pin_Number\ Balance_Amount\ Bank_Account\ Issuer_Bank\ Card_ID\ Client_Name
+comment1.target=DebitCard(int,\ int,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getPin()
+comment3.params=
+comment3.target=int\ getWithdrawalAmount()
+comment4.params=
+comment4.target=java.lang.String\ getDate()
+comment5.params=
+comment5.target=boolean\ getWithdrawn()
+comment6.params=withdrawal_amount
+comment6.target=void\ setWithdrawal_Amount(int)
+comment7.params=pin_number
+comment7.target=void\ setPin_Number(int)
+comment8.params=Withdrawal_Amount\ Withdrawal_Date\ Pin_Number
+comment8.target=void\ Withdraw(int,\ java.lang.String,\ int)
+comment9.params=
+comment9.target=void\ Display()
+numComments=10
